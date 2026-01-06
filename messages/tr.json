@@ -1,0 +1,4 @@
+{
+  "Nav": { "tasks": "Görevler", "admin": "Yönetim" },
+  "Home": { "title": "Görev Yönetimi", "subtitle": "Rol & yetki + görev atama" }
+}

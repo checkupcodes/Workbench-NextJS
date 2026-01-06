@@ -1,0 +1,7 @@
+{
+  "Nav": { "tasks": "Tasks", "admin": "Admin" },
+  "Home": {
+    "title": "Task Management",
+    "subtitle": "Roles & permissions + task assignment"
+  }
+}
